@@ -6,7 +6,7 @@ Welcome to *Weather Analytics Studio*! This project is your ultimate tool for an
 
 ## 🚀 *Features*
 - Interactive weather visualizations using *Streamlit* and *Google Colab*.
-- In-depth analysis of weather trends using *line plots, **bar charts, and **heatmaps*.
+- In-depth analysis of weather trends using line plots, bar charts, and heatmaps.
 - Time-series forecasting of temperature and precipitation data.
 - Data comparison and pattern recognition using *matplotlib* and *seaborn*.
 - Streamlined data loading and cleaning processes for easier analysis.
